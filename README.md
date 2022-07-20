@@ -7,4 +7,4 @@ git clone https://github.com/TCDhub/Discord-Activity && cp -r Discord-Activity/i
 ```
 Sempre que aparecer para substituir uma pasta/ou arquivo use ***`y`.*** Após instalar os pacotes você deve ir em ***`status.json`*** para substituir as informações que deseja. Aproveite e desfrute do sistema. 
 
-*— Este template foi inteiramente criado por* ***[ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#2018](https://www.flownixr.repl.co)*** *e distribuído publicamente para usuários que gostam de modificar suas área de uso. Espero que aproveitem os recursos.*
+*— Este template foi inteiramente criado por* ***[ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#2018](https://www.flownixr.repl.co)*** *(eu mesmo) e distribuído publicamente para usuários que gostam de modificar suas área de uso. Espero que aproveitem os recursos.*
