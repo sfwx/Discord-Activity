@@ -1,6 +1,6 @@
 🌙 **❯** ***Status de natividade/streaming personalizado.***
 
-Vocês podem fazer a instalação em um projeto *[NodeJS](https://replit.com/nodejs)* na *[Repl.It](https://replit.com)*, e então executar o comando a seguir no terminal/console/shell.
+Vocês podem fazer a instalação em um projeto *[NodeJS](https://replit.com/new/nodejs)* na *[Repl.It](https://replit.com)*, e então executar o comando a seguir no terminal/console/shell.
 *Obs: para quem for usar replit ou outra host, lembre-se de adicionar* ***`express`*** *para que não pare com tanta frequência (pelo termux ele não para mais vai da sua escolha usar ou não)*
 ```
 git clone https://github.com/FlowniX/Discord-Activity-personal && cp -r Discord-Activity-personal/index.js Discord-Activity-personal/status.json Discord-Activity-personal/events . && rm -r Discord-Activity-personal && npm init -y && npm i discord.js discord.js-selfbot-v11 discordrpcgenerator
