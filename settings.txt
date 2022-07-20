@@ -1,7 +1,0 @@
-Este template foi inteiramente modificado por TCD/ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#2018/@FlowniX e distribuído publicamente para usuários que gostam de modificar suas área de uso. Espero que aproveitem os recursos.
-
-Após extrair o arquivo zip, copie e cole o comando a seguir no seu terminal/console/shell para que faça a instalação dos pacotes nescessários para executação. Obs: sempre que aparecer para confirmar a substituição de uma pasta/ou arquivo apenas clique enter para usar a opção mais recomedada para prosseguir.
-
-npm init -y && npm i discord.js discord.js-selfbot-v11 discordrpcgenerator
-
-Após instalar os pacotes você deve ir em "status.json" para substituir as informações que deseja. Aproveite e desfrute do sistema e após isso você não é obrigado mais pode excluir este arquivo informativo. 
