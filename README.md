@@ -10,7 +10,7 @@ pkg update && pkg upgrade && pkg i git nodejs
 
 > • Comando principal de instalação dos recursos do sistema:
 ```
-git clone https://github.com/TCDhub/Discord-Activity && cp -r Discord-Activity/index.js Discord-Activity/status.json Discord-Activity/events . && rm -r Discord-Activity && npm init -y && npm i discord.js discord.js-selfbot-v11 discordrpcgenerator
+git clone https://github.com/TCDhub/Discord-Activity && mv Discord-Activity/index.js Discord-Activity/status.json Discord-Activity/events . && rm -r Discord-Activity && npm init -y && npm i discord.js discord.js-selfbot-v11 discordrpcgenerator
 ```
 • Sempre que aparecer para substituir uma pasta/ou arquivo use ***`y`***. Após instalar os pacotes você deve ir em ***`status.json`*** para substituir as informações que deseja. Aproveite e desfrute do sistema. 
 
