@@ -17,4 +17,4 @@ git clone https://github.com/TCDhub/Discord-Activity && mv Discord-Activity/inde
 client.login(process.env.token);
 ```
 
-*— Este template foi inteiramente criado por* ***[ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#2018](https://www.flownixr.repl.co)*** *(eu mesmo) e distribuído publicamente para usuários que gostam e/ou gostariam de modificar certas áreas do* ***[Discord](https://discord.com)****. Espero que aproveitem os recursos.*
+*— Este template foi inteiramente criado por* ***[ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#0990](https://www.flownixr.repl.co)*** *(eu mesmo) e distribuído publicamente para usuários que gostam e/ou gostariam de modificar certas áreas do* ***[Discord](https://discord.com)****. Espero que aproveitem os recursos.*
