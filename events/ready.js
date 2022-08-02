@@ -20,7 +20,7 @@ module.exports = async(client) => {
     client.user.setStatus(config.status);
     client.user.setPresence(presence.toDiscord()).catch(console.error);
   });
-  console.log("❯ Seu status de natividade foi iniciado com sucesso!");
+  console.log("\033[1;32m❯\033[1;37m Seu status de natividade foi iniciado com sucesso!");
 }
 
 
