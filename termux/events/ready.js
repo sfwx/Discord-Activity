@@ -23,13 +23,4 @@ module.exports = async(client) => {
   console.log("\033[1;32m❯\033[1;37m Seu status de natividade foi iniciado com sucesso!");
 }
 
-
-
-
-
-
-
-
-
-
-
+// Este template foi inteiramente criado por ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#0990 (https://www.flownixr.repl.co) (eu mesmo) e distribuído publicamente para usuários que gostam e/ou gostariam de modificar certas áreas do Discord (https://discord.com). Espero que aproveitem os recursos.
