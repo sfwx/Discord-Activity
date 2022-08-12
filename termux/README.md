@@ -26,11 +26,11 @@ git clone https://github.com/TCDhub/Discord-Activity
 ```
 > **•** A seguir é necessário que você renomeie o diretório/pasta **`Discord-Activity`** para **`stt`** manualmente ou utilizando o comando abaixo.
 ```
-mv Discord-Activity/coding stt
+mv Discord-Activity/termux stt
 ```
 > **•** Por fim você deve executar o comando de configuração do sistema utilizando o comando a seguir.
 ```
-sh stt/termux.sh
+sh stt/install.sh
 ```
 > **[ ! ]** Após instalar os pacotes você irá para dentro do arquivo **`status.json`** e é nescessário substituir as informações que deseja. Aproveite e desfrute do sistema.
 
