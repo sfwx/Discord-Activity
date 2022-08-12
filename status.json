@@ -2,19 +2,19 @@
   "token": "SEU TOKEN DE USUÁRIO",
   "applicationid": "759899138673606736",
   "status": "idle",
-  "type": "STREAMING/PLAYING",
+  "type": "STREAMING",
   "url": "https://twitch.tv/TheCatDark_",
   "name": "Status TCD",
-  "details": "www.flownixr.repl.co",
-  "state": "Entra ae, prometo não roubar a conta do cartão da blaze ;P",
+  "details": "🌙⢿ 始 Moon's Line ⣷ᥫ᭡",
+  "state": "Entra ae, prometo não roubar a conta do cartão da blaze ;p",
   "assets": {
     "largeimage": {
-      "key": "elagostaaa",
-      "text": "elagostaaa"
+      "key": "banner",
+      "text": "https://www.FlowniXr.repl.co"
     },
     "smallimage": {
-      "key": "ahegao",
-      "text": "ahegao"
+      "key": "flownix",
+      "text": "https://www.FlowniXr.repl.co/youtube"
     }
   }
 }
