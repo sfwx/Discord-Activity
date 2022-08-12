@@ -1,5 +1,5 @@
 cd status
-rm -r .git README.md
+rm -r .git Discord-Activity README.md
 npm init -y
 npm install discord.js discord.js-selfbot-v11 discordrpcgenerator
 rm install.sh
