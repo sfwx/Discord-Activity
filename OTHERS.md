@@ -6,22 +6,22 @@
 <br>
 <h1>📂 Especificações</h1>
 
-> **•** Para que os comandos de instalação dos recursos funcione corretamente é necessário que você use um projeto **`nodejs`** juntamente com com programa **`git`** oara que possa clonar o repositório.
+> **•** Para que os comandos de instalação dos recursos funcione corretamente é necessário que você use um projeto **`nodejs`** juntamente com programa **`git`** para que possa clonar o repositório.
 <h1>🗂️ Instalação dos recursos</h1>
 
 > **•** Para você baixar aos recursos necessários para iniciar o processo é nescessário que você execute o comando a seguir para clonar a este **[Github](https://github.com/TCDhub/Discord-Activity)** no seu projeto online.
 ```
 git clone https://github.com/TCDhub/Discord-Activity
 ```
-> **•** A seguir é necessário que você renomeie o diretório/pasta **`Discord-Activity`** para **`stt`** manualmente ou utilizando o comando abaixo.
+> **•** A seguir é necessário que você arraste os arquivos de dentro do diretório/pasta **`Discord-Activity/coding`** para a base do projeto manualmente (Não sei exatamente como corrigir o erro do comando **`rm`** dos terminais online então terá que ser manualmente).
+
+> **•** Por fim você deve deletar o diretório/pasta **`Discord-Activity`** do projeto online.
+
+> **[ ! ]** Após instalar os pacotes você terá que abrir o arquivo **`status.json`** e é nescessário substituir as informações que deseja. Caso queira mais segurança no na sua conta é nescessário que você crie uma variavel **`ENV`** com o nome **`token`** e o valor deverá ser o seu token de usuário, após isso você deveria substituir a última linha de código do arquivo **`index.js`** para o código abaixo.
 ```
-mv Discord-Activity/coding stt
+client.login(process.env.token);
 ```
-> **•** Por fim você deve executar o comando de configuração do sistema utilizando o comando a seguir.
-```
-sh stt/install.sh
-```
-> **[ ! ]** Após instalar os pacotes você irá para dentro do arquivo **`status.json`** e é nescessário substituir as informações que deseja. Aproveite e desfrute do sistema.
+> **•** Após finalizar aproveite e desfrute do sistema.
 
 <br><br><br><br><br><br><br><br>
 *— Este template foi inteiramente criado por* ***[ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#0990](https://www.flownixr.repl.co)*** *(eu mesmo) e distribuído publicamente para usuários que gostam e/ou gostariam de modificar certas áreas do* ***[Discord](https://discord.com)****. Espero que aproveitem os recursos.*
