@@ -15,7 +15,7 @@ git clone https://github.com/TCDhub/Discord-Activity
 ```
 > **•** A seguir é necessário que você execute o comando a seguir em seu terminal online.
 ```
-sh Discord-Activity/coding/others.sh
+sh Discord-Activity/others/install.sh
 ```
 > **•** Por fim você deve deletar o diretório/pasta **`Discord-Activity`** do projeto online.
 
