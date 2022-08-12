@@ -19,10 +19,8 @@ sh Discord-Activity/coding/others.sh
 ```
 > **•** Por fim você deve deletar o diretório/pasta **`Discord-Activity`** do projeto online.
 
-> **[ ! ]** Após instalar os pacotes você terá que abrir o arquivo **`status.json`** e é nescessário substituir as informações que deseja. Caso queira mais segurança no na sua conta é nescessário que você crie uma variavel **`ENV`** com o nome **`token`** e o valor deverá ser o seu token de usuário, após isso você deveria substituir a última linha de código do arquivo **`index.js`** para o código abaixo.
-```
-client.login(process.env.token);
-```
+> **[ ! ]** Após instalar os pacotes você terá que abrir o arquivo **`status.json`** e é nescessário substituir as informações que deseja. Após isso é nescessário que você crie uma variavel **`ENV`** com o nome **`token`** e o valor deverá ser o seu token de usuário.
+
 > **•** Após finalizar aproveite e desfrute do sistema.
 
 <br><br><br><br><br><br><br><br>
