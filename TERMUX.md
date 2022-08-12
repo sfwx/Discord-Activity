@@ -30,7 +30,7 @@ mv Discord-Activity/coding stt
 ```
 > **•** Por fim você deve executar o comando de configuração do sistema utilizando o comando a seguir.
 ```
-sh stt/install.sh
+sh stt/termux.sh
 ```
 > **[ ! ]** Após instalar os pacotes você irá para dentro do arquivo **`status.json`** e é nescessário substituir as informações que deseja. Aproveite e desfrute do sistema.
 
