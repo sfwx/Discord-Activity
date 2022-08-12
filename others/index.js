@@ -10,3 +10,5 @@ client.on(eventname, event.bind(null, client));
 });
 
 client.login(process.env.token);
+
+// Este template foi inteiramente criado por ᝰ໋݊🌙⢿The.CatDark⣷ᥫ᭡#0990 (https://www.flownixr.repl.co) (eu mesmo) e distribuído publicamente para usuários que gostam e/ou gostariam de modificar certas áreas do Discord (https://discord.com). Espero que aproveitem os recursos.
