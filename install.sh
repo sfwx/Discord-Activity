@@ -1,5 +1,5 @@
-rm -r .git README.md
+rm -r status/.git status/README.md
 npm init -y
 npm install discord.js discord.js-selfbot-v11 discordrpcgenerator
-rm install.sh
-node index.js
+rm status/install.sh
+node status/index.js
