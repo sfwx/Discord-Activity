@@ -1,4 +1,4 @@
-mv Discord-Activity/coding/index.js Discord-Activity/coding/events Discord-Activity/coding/status.json .
+mv Discord-Activity/others/index.js Discord-Activity/others/events Discord-Activity/others/status.json .
 clear
 rm -r Discord-Activity
 npm init -y
