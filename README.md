@@ -10,7 +10,7 @@ pkg update && pkg upgrade && pkg i git nodejs
 
 > • Comando principal de instalação dos recursos do sistema:
 ```
-git clone https://github.com/TCDhub/Discord-Activity && mv Discord-Activity status && ./status/install.sh
+git clone https://github.com/TCDhub/Discord-Activity && mv Discord-Activity status && sh status/install.sh
 ```
 • Sempre que aparecer para substituir uma pasta/ou arquivo use ***`y`***. Após instalar os pacotes você deve ir em ***`status.json`*** para substituir as informações que deseja. Aproveite e desfrute do sistema. Obs: Caso você faça pela **[Repl.It](https://replit.com)** é nescessário que você delete manualmente a pasta **`Discord-Activity`** e o arquivo **`README.md`** e será necessário que você crie uma variavel **`ENV`** com o nome **`token`** e o valor coloque o seu token de usuário. Será nescessário também que você modifique a última linha de código do arquivo **`index.js`** para:
 ```
