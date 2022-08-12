@@ -1,0 +1,19 @@
+{
+  "applicationid": "759899138673606736",
+  "status": "idle",
+  "type": "STREAMING",
+  "url": "https://twitch.tv/TheCatDark_",
+  "name": "Status TCD",
+  "details": "🌙⢿ 始 Moon's Line ⣷ᥫ᭡",
+  "state": "Entra ae, prometo não roubar a conta do cartão da blaze ;p",
+  "assets": {
+    "largeimage": {
+      "key": "banner",
+      "text": "https://www.FlowniXr.repl.co"
+    },
+    "smallimage": {
+      "key": "flownix",
+      "text": "https://www.FlowniXr.repl.co/youtube"
+    }
+  }
+}
