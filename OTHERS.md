@@ -4,23 +4,12 @@
 
 > **[ ! ]** Sempre que aparecer para substituir uma pasta/ou arquivo use **`y`** está informação possivelmente será utilizada em todos os processos desse projeto.
 <br>
-<h1>🛠️ Atualização do sistema</h1>
+<h1>📂 Especificações</h1>
 
-> **•** Caso não tenha atualizado o **[Termux](https://termux.com)** ultimamente é recomendado que utilize o codigo a seguir antes do comando de instalação.
-```
-pkg update && pkg upgrade
-```
-<br>
-<h1>📂 Instalação dos programas</h1>
-
-> **•** Para que os comandos de instalação dos recursos funcione corretamente é necessário que você instale os programas **`git`** e **`nodejs`** utilizando o comando a seguir:
-```
- pkg install git nodejs
-```
-<br>
+> **•** Para que os comandos de instalação dos recursos funcione corretamente é necessário que você use um projeto **`nodejs`** juntamente com com programa **`git`** oara que possa clonar o repositório.
 <h1>🗂️ Instalação dos recursos</h1>
 
-> **•** Para você baixar aos recursos necessários para iniciar o processo é nescessário que você execute o comando a seguir para clonar a este **[Github](https://github.com/TCDhub/Discord-Activity)** no seu celular.
+> **•** Para você baixar aos recursos necessários para iniciar o processo é nescessário que você execute o comando a seguir para clonar a este **[Github](https://github.com/TCDhub/Discord-Activity)** no seu projeto online.
 ```
 git clone https://github.com/TCDhub/Discord-Activity
 ```
