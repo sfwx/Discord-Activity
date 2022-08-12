@@ -13,8 +13,10 @@
 ```
 git clone https://github.com/TCDhub/Discord-Activity
 ```
-> **•** A seguir é necessário que você arraste os arquivos de dentro do diretório/pasta **`Discord-Activity/coding`** para a base do projeto manualmente (Não sei exatamente como corrigir o erro do comando **`rm`** dos terminais online então terá que ser manualmente).
-
+> **•** A seguir é necessário que você execute o comando a seguir em seu terminal online.
+```
+mv Discord-Activity/coding/index.js Discord-Activity/coding/events Discord-Activity/coding/status.json Discord-Activity/coding/others.sh ../Discord-Activity && rm -r Discord-Activity
+```
 > **•** Por fim você deve deletar o diretório/pasta **`Discord-Activity`** do projeto online.
 
 > **[ ! ]** Após instalar os pacotes você terá que abrir o arquivo **`status.json`** e é nescessário substituir as informações que deseja. Caso queira mais segurança no na sua conta é nescessário que você crie uma variavel **`ENV`** com o nome **`token`** e o valor deverá ser o seu token de usuário, após isso você deveria substituir a última linha de código do arquivo **`index.js`** para o código abaixo.
