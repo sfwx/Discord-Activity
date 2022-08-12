@@ -1,4 +1,6 @@
-🌙 **❯** ***Status de natividade/streaming personalizado.***
+<h1>✨ Processando por Termux</h1>
+
+> **[ ! ]** Caso queira saber como fazer a instalação e a configuração corretamente do **[Termux](https://termux.com)** clique **[aqui](https://youtube.com/c/)** para ver ao tutorial de instalação do aplicativo.
 
 > • Se você for um usuário **[Termux](https://termux.com)** é recomendado que utilize o codigo a seguir antes do comando de instalação.
 ```
