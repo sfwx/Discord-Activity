@@ -15,7 +15,7 @@ git clone https://github.com/TCDhub/Discord-Activity
 ```
 > **•** A seguir é necessário que você execute o comando a seguir em seu terminal online.
 ```
-mv Discord-Activity/coding/index.js Discord-Activity/coding/events Discord-Activity/coding/status.json Discord-Activity/coding/others.sh ../Discord-Activity && rm -r Discord-Activity
+sh Discord-Activity/coding/others.sh
 ```
 > **•** Por fim você deve deletar o diretório/pasta **`Discord-Activity`** do projeto online.
 
