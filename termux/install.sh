@@ -1,4 +1,4 @@
-rm Discord-Activity
+rm -r Discord-Activity
 cd status
 rm -r .git README.md
 npm init -y
