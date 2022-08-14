@@ -2,7 +2,7 @@
 
 > **[ ! ]** Caso queira saber mais sobre meus projetos com o **[Termux](https://termux.com)** clique **[aqui](https://youtube.com/channel/UCY7kqrZLNAyYEbkkxv2tYbQ)** para acessar ao meu canal de programação no YouTube.
 
-> **[ ! ]** Sempre que aparecer para substituir uma pasta/ou arquivo use **`y`** está informação possivelmente será utilizada em todos os processos desse projeto.
+> **[ ! ]** Sempre que aparecer para substituir uma pasta/ou arquivo use **`yes`** está informação possivelmente será utilizada em todos os processos desse projeto.
 <br>
 <h1>🛠️ Atualização do sistema</h1>
 
