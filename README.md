@@ -1,3 +1,7 @@
+<h1>🚫 Aviso de erro</h1>
+
+> Talvez passe a não funcionar mais nas novas versões atuais do Discord e de suas APIs.
+
 <h1>🌙 Discord Activity</h1>
 
 > **`Discord Activity`** é um script para que você possa criar e personalizar seu próprio status de atividade do discord de forma simples.
